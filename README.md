@@ -5,7 +5,7 @@ print("Hello Im Saaim!")
 echo Hello Im Saaim!
 ```
 ```javascript
-System.out.println("Hello Im Saaim!");
+console.log("Hello Im Saaim!")
 ```
 ```html
 <h1>Hello Im Saaim!"</h1>
