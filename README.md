@@ -15,6 +15,6 @@
 </h1>
 <h1 align="center">
 <a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjapanwala"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjapanwala&layout=donut"
 </a>
 </h1>
