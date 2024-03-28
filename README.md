@@ -1,15 +1,8 @@
-                                                    
-📑 Language's Im Familiar With.
-
-```python
-print("Hello Im Saaim!")
-```
-```cmd
-echo Hello Im Saaim!
-```
-```javascript
-console.log("Hello Im Saaim!")
-```
-```html
-<h1>Hello Im Saaim!"</h1>
-```
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sjapanwala/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCGvYUm2cYV24cmVShOzAj2A">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
