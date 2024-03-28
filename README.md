@@ -13,3 +13,8 @@
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </h1>
+<h1 align="center">
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjapanwala"
+</a>
+</h1>
