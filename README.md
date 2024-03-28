@@ -9,4 +9,7 @@
   <a>
      <img src="https://img.shields.io/badge/.saaimm-purple?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="https://www.instagram.com/saaimm_/">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  </a>
 </h1>
