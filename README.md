@@ -7,8 +7,10 @@
   <a href="https://discord.gg/ARMCCCMZpU">
      <img src="https://img.shields.io/badge/.saaimm-purple?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
 </h1>
+<!---
 <h1 align="center">
 <a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjapanwala&layout=donut"
 </a>
 </h1>
+--->
