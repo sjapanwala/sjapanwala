@@ -1,4 +1,4 @@
-<center> # Welcome To Saaims GitHub Profile!</center>
+# Welcome To Saaims GitHub Profile!
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
