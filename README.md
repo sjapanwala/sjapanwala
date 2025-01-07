@@ -1,7 +1,7 @@
 
 <!--<h1 align="center">Hi 👋, I'm Saaim Japanwala</h1>
 <h3 align="center">A passionate developer from Canada</h3>-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=i+forgor+how+to+push?.)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=i+forgor+how+to+push?.)](https://git.io/typing-svg)-->
 <!--- 🔭 I’m currently working on **Perfecting JavaScript**
 
 - [🕸️ Visit My Online Portfolio!](https://sjapanwala.github.io/index.html)
