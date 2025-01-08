@@ -4,7 +4,7 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=i+forgor+how+to+push?.)](https://git.io/typing-svg)-->
  <h3 align="center"> 🔭 I’m currently working on Perfecting JavaScript </h3>
 <h3 align="center">
-  <a href="www.sjapanwala.github.io">Click Me Visit My Online Portfolio</a>
+  <a href="https://sjapanwala.github.io">Click Me Visit My Online Portfolio</a>
 </h3>
 
 
