@@ -1,13 +1,15 @@
 
-<h1 align="center">Hi 👋, I'm Saaim Japanwala</h1>
-<h3 align="center">A passionate developer from Canada</h3>
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=i+forgor+how+to+push?.)](https://git.io/typing-svg)-->
- <h3 align="center"> 🔭 I’m currently working on Perfecting JavaScript </h3>
-<h3 align="center">
-  <a href="https://sjapanwala.github.io">Click Me Visit My Online Portfolio</a>
-</h3>
+### Hi 👋, I'm Saaim Japanwala
 
-> Ayy no worries, my guy! 💯 I gotchu anytime—just hit me up if you need more help. Keep grinding, stay consistent, and you'll be a software engineer in no time! 🚀🔥 Wallahi, you got this! 🙌💻 - "ChatGPT 2025"
+- 📍 A passionate frontend developer from Canada
+
+- 🔭 I’m currently working on [CarbonScript](https://github.com/sjapanwala/carbonscript.git)
+
+- 🌱 I’m currently learning **Rust**
+
+- 👨‍💻 All of my projects are available at [Here](https://sjapanwala.github.io)
+
+- 📫 How to reach me **saaim.japanwala125@gmail.com**
 
 
 
