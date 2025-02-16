@@ -1,7 +1,7 @@
 
 ### Hi 👋, I'm Saaim Japanwala
 
-- 📍 A passionate frontend developer from Canada
+- 📍 A passionate backend/CLI developer from Canada
 
 - 🔭 I’m currently working on [CarbonScript](https://github.com/sjapanwala/carbonscript.git)
 
@@ -12,7 +12,7 @@
 - 📫 How to reach me **saaim.japanwala125@gmail.com**
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=python,js,c,html,css,vim,git,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,c,html,css,powershell,vim,git,apple,arch)](https://skillicons.dev)
 
 
 
