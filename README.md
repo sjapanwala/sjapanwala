@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **saaim.japanwala125@gmail.com**
 
+---
+[![My Skills](https://skillicons.dev/icons?i=python,js,c,html,css,vim,git,powershell)](https://skillicons.dev)
+
 
 
 <!--h3 align="left">Languages and Tools:</h3>
