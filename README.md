@@ -13,7 +13,7 @@
   If you would like to come read what I write, I write both on my personal site and on SubStack (come support me on my site 🙂), click on one of the links below!
 </p>
 
-🔗 [Personal Site](www.sjapanwala.com)
+🔗 [Personal Site](https://www.sjapanwala.com)
 <br>
 🔗 [SubStack](https://saaimm.substack.com/)
 
